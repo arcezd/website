@@ -5,9 +5,11 @@ description = "AWS Elasticache from A Cloud Guru July 2021"
 tags = ["challenge", "acloudguru", "aws", "elasticache"]
 draft = false
 +++
-[Github repo](https://github.com/ArcezD/elastic-cache-challenge)
+![Architecture diagram](images/acg-june-july-2021.webp)
 ## The challenge
 This challenge consists of deploying a simple Python application on an EC2 instance and RDS PostgreSQL database instance, and then optimize the performance of the application caching database queries using an [ElastiCache Redis cluster](https://aws.amazon.com/elasticache/).
+
+{{< icon "github" >}} [Github repo](https://github.com/ArcezD/elastic-cache-challenge)
 
 ## My approach
 I decided to make the deployment of all the resources using Terraform, for those who don't know, it’s a powerful tool to implement Infrastructure as a Code.
@@ -21,7 +23,7 @@ I also decided to package the Python application as a Docker container.
     alt="Infraestructure diagram"
   />
 </div>-->
-![Image alt](images/acloudguru-challenge-diagram.png)
+![Architecture diagram](images/acloudguru-challenge-diagram.png)
 
 ## Terraform scripts
 
