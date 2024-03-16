@@ -1,9 +1,9 @@
-languageCode = "en"
-languageName = "English"
+languageCode = "es-CR"
+languageName = "Spanish"
 languageDirection = "ltr"
-weight = 1
+weight = 2
 
-# contentDir = "content/en"
+# contentDir = "content/es"
 
 title = "arcezd's blog"
 # copyright = "Copy, _right?_ :thinking_face:"
@@ -17,8 +17,8 @@ title = "arcezd's blog"
 [params.author]
   name = "Diego Arce"
   image = "img/arcezd.jpeg"
-  headline = "cloud solutions architect"
-  bio = "It's just me..."
+  headline = "arquitecto de soluciones cloud"
+  bio = "Solo soy yo..."
   links = [
     { github = "https://github.com/arcezd" },
   #  { gitlab = "https://gitlab.com/arcezd" },

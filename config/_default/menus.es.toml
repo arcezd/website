@@ -26,7 +26,7 @@
   weight = 30
 
 # [[main]]
-#   identifier = "search"
+#   identifier = "buscar"
 #   weight = 99
 #   [main.params]
 #     action = "search"
