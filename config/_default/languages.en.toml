@@ -13,11 +13,16 @@ title = "arcezd's blog"
   description = "ArcezD's blog"
 
 [params.author]
-  # name = "Your name here"
-  # image = "img/author.jpg"
-  # headline = "I'm only human"
-  # bio = "A little bit about you"
-  # links = [
+  name = "Diego Arce"
+  image = "img/arcezd.jpeg"
+  headline = "cloud solutions architect"
+  bio = "It's just me..."
+  links = [
+    { github = "https://github.com/arcezd" },
+  #  { gitlab = "https://gitlab.com/arcezd" },
+    { instagram = "https://instagram.com/username" },
+    { linkedin = "https://linkedin.com/in/arcezd" },
+  ]
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
