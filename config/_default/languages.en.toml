@@ -20,7 +20,7 @@ title = "arcezd's blog"
   links = [
     { github = "https://github.com/arcezd" },
   #  { gitlab = "https://gitlab.com/arcezd" },
-    { instagram = "https://instagram.com/username" },
+    { instagram = "https://instagram.com/arcezd" },
     { linkedin = "https://linkedin.com/in/arcezd" },
   ]
   #   { email = "mailto:hello@your_domain.com" },
